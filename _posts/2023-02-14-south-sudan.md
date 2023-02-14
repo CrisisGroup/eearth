@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## Recommendations
 
-![](https://www.youtube.com/watch?v=TdxNG8L4JCM)
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/TdxNG8L4JCM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 External partners and the UN should work with South Sudanese authorities, religious leaders, community elders and others to de-escalate tensions and create security for both displaced and host communities, while protecting the needs of both.
 
