@@ -30,8 +30,8 @@ author: pkfranz
 copyright: Copyright © 2023
 description: This is an early warning system for the Future of Conflict program at International Crisis Group.
 night_mode: "on"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/eearth" # the subpath of your site, e.g. /blog
+url: "https://crisisgroup.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
