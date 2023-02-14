@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Early Climate Warning System
+title: EEARTH Platform
 email: pfranz@crisisgroup.org
 author: pkfranz
 copyright: Copyright © 2023
@@ -135,7 +135,7 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Early Climate Warning System"
+#     heading: "EEARTH Platform"
 #     subheading: "A Project of the International Crisis Group"
   #   banner: "Your image url"
 

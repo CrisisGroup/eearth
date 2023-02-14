@@ -3,7 +3,7 @@ layout: post
 title: Floods in South Sudan
 subheading: At COP27, world leaders will try to raise funds for coping with the effects of climate change. Donors should make more money available and distribute it more equitably, particularly to countries beset by both climate change and war.
 author: Ulrich Eberle
-categories: jekyll
+categories: sudan
 banner:
   video: https://southsudan.crisisgroup.org/images/aerial.mp4
   loop: true
@@ -20,53 +20,20 @@ tags: 'refugees'
 sidebar: []
 ---
 
-South Sudan, reeling from its recent civil war, where four consecutive years of historic flooding have exacerbated food and livelihood insecurity. Rising waters have sent pastoralists fleeing south, where their presence has increased tensions and contributed to violence in the Equatoria region. According to forecasts, the countriy needs to brace for additonal floods ikn the coming months.
+South Sudan, reeling from its recent civil war, where four consecutive years of historic flooding have exacerbated food and livelihood insecurity. Rising waters have sent pastoralists fleeing south, where their presence has increased tensions and contributed to violence in the Equatoria region. According to forecasts, the country needs to brace for additonal floods in the coming months.
 
-## section 1
+<div class="flourish-embed flourish-chart" data-src="visualisation/11464052"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Jekyll also offers powerful support for code snippets:
+## The Climate Forecast
 
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<iframe width='100%' height='600px' src="https://api.mapbox.com/styles/v1/daltonwb/cle4jcuwn004801rrryrukwp9.html?title=false&access_token=pk.eyJ1IjoiZGFsdG9ud2IiLCJhIjoiOWdSSXFQSSJ9.HZyjh4g3TAAOAncwelv9Vw&zoomwheel=false#3.34/4.711/42.167/13.6/29" title="south_sudan_eearth1" style="border:none;"></iframe>
 
-## section 2
+## The Impact on Livelihoods
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## Recommendations
 
-$ a \* b = c ^ b $
+External partners and the UN should work with South Sudanese authorities, religious leaders, community elders and others to de-escalate tensions and create security for both displaced and host communities, while protecting the needs of both.
 
-$ 2^{\frac{n-1}{3}} $
-
-$ \int_a^b f(x)\,dx. $
-
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-  cout << "Hello World!";
-  return 0;
-}
-// prints 'Hi, Tom' to STDOUT.
-```
-
-```python
-class Person:
-  def __init__(self, name, age):
-    self.name = name
-    self.age = age
-
-p1 = Person("John", 36)
-
-print(p1.name)
-print(p1.age)
-```
+Authorities should try to ease political tensions between the displaced and host communities, such as by organising a conference of Jonglei and Equatorian leaders to agree on basic modalities in the likely event of future displacement, including potential migration corridors, grazing land, timetables for returns, protections for farmers and host communities, and adjudication mechanisms. Though this dialogue will be contentious given the heated politics, the alternative is worsening violence as climate-driven risk factors continue to increase tensions. External partners can support such processes or fill in gaps should the authorities not take up the task."
